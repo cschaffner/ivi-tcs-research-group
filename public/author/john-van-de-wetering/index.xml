@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John van de Wetering | IvI TCS group</title>
+    <link>https://ivi.uva.nl/tcs/author/john-van-de-wetering/</link>
+      <atom:link href="https://ivi.uva.nl/tcs/author/john-van-de-wetering/index.xml" rel="self" type="application/rss+xml" />
+    <description>John van de Wetering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.uva.nl/tcs/author/john-van-de-wetering/avatar_hu6ed20e16fba072f5ad5d91e1520287eb_42800_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>John van de Wetering</title>
+      <link>https://ivi.uva.nl/tcs/author/john-van-de-wetering/</link>
+    </image>
+    
+    <item>
+      <title>MSc in Quantum Computer Science (QuCS) at UvA</title>
+      <link>https://ivi.uva.nl/tcs/project/qdnl_al31/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.uva.nl/tcs/project/qdnl_al31/</guid>
+      <description>&lt;p&gt;The goal of &lt;a href=&#34;https://quantumdelta.nl/human-capital/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Action Line 3 of QuantumDelta NL&lt;/a&gt; is to create a quantum-versed work force. At the University of Amsterdam, we are in the process of setting up an entire new Master program on &amp;ldquo;Quantum Computer Science&amp;rdquo; (QuCS). These efforts are supported by Action Line 3.1 of QuantumDelta NL.&lt;/p&gt;
+&lt;p&gt;This project runs from September 2021 to September 2026.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

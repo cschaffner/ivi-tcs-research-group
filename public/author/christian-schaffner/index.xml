@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Schaffner | IvI TCS group</title>
+    <link>https://ivi.uva.nl/tcs/author/christian-schaffner/</link>
+      <atom:link href="https://ivi.uva.nl/tcs/author/christian-schaffner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Schaffner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.uva.nl/tcs/author/christian-schaffner/avatar_hu13dcba922ddf7de936dd9f0e94998f84_371741_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Christian Schaffner</title>
+      <link>https://ivi.uva.nl/tcs/author/christian-schaffner/</link>
+    </image>
+    
+    <item>
+      <title>New group website for the IvI TCS group</title>
+      <link>https://ivi.uva.nl/tcs/post/23-03-08-new-homepage/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.uva.nl/tcs/post/23-03-08-new-homepage/</guid>
+      <description>&lt;p&gt;Started designing a new group website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large NWA grant for research into the social impact of quantum secure cryptography</title>
+      <link>https://ivi.uva.nl/tcs/post/22-05-22-nwa-grant/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.uva.nl/tcs/post/22-05-22-nwa-grant/</guid>
+      <description>&lt;p&gt;The arrival of quantum computers will have major societal consequences, especially in the field of cybersecurity. A new consortium led by Sebastian De Haro of the Institute for Logic, Language and Computation and the Institute of Physics of the University of Amsterdam has received a grant of over 900,000 euros from NWO&amp;rsquo;s Nationale Wetenschapsagenda (National Science Agenda, NWA) to study the impact of this transition and to help manage it.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2022/05/large-nwa-grant-for-research-into-the-social-impact-of-quantum-secure-cryptography.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;news article by UvA&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quantum Impact on Societal Security (QISS)</title>
+      <link>https://ivi.uva.nl/tcs/project/qiss/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.uva.nl/tcs/project/qiss/</guid>
+      <description>&lt;p&gt;As the potential risks and consequences of cybersecurity breaches by future quantum computers are devastating, there is an urgent need to prepare for a transition to quantum-safe cryptography.&lt;/p&gt;
+&lt;p&gt;Addressing the many complexities of this transition requires a multidisciplinary collaboration of scientists, financial and governmental institutions, and civil society groups. The Quantum Impact on Societal Security consortium will analyse the ethical, legal and societal impact of this upcoming society-wide transition. The consortium&amp;rsquo;s objective is to contribute to the creation of a Dutch ecosystem where quantum-safe cryptography can thrive, and mobilize this ecosystem to align technological applications with ethical, legal, and social values. Quantum Impact on Societal Security aimss to create wide public awareness and use citizen feedback to develop responsible policies and regulations. The project’s ambition is to be a game-changer by incentivising key economic and societal advantages of adoption of responsible quantum-safe cryptography early on and by galvanizing policymakers into action, so that the Netherlands will gain a leading role in setting the international agenda for quantum-safe cryptography for society.&lt;/p&gt;
+&lt;p&gt;Quantum Impact on Societal Security has four scientific aims: First, to identify technical and societal requirements on innovation policies for quantum-safe cryptography: which enables an interactive approach to responsible innovation, in real time as the technology develops. Second, to understand the dynamics of knowledge in research and innovation ecosystems. Third, to draft novel innovation policies that satisfy the societal requirements for the financial and government sectors, clarifying their legal underpinning. Fourth, to link the development of new cryptographic standards to the subsequent stakeholder dynamics and its geopolitical consequences.&lt;/p&gt;
+&lt;p&gt;This project runs from 2023 to 2027.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc in Quantum Computer Science (QuCS) at UvA</title>
+      <link>https://ivi.uva.nl/tcs/project/qdnl_al31/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.uva.nl/tcs/project/qdnl_al31/</guid>
+      <description>&lt;p&gt;The goal of &lt;a href=&#34;https://quantumdelta.nl/human-capital/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Action Line 3 of QuantumDelta NL&lt;/a&gt; is to create a quantum-versed work force. At the University of Amsterdam, we are in the process of setting up an entire new Master program on &amp;ldquo;Quantum Computer Science&amp;rdquo; (QuCS). These efforts are supported by Action Line 3.1 of QuantumDelta NL.&lt;/p&gt;
+&lt;p&gt;This project runs from September 2021 to September 2026.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Position on Side-Channel Attacks on Quantum Devices Used in Quantum Networks</title>
+      <link>https://ivi.uva.nl/tcs/project/qdnl_kat2/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.uva.nl/tcs/project/qdnl_kat2/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is an archived version of &lt;a href=&#34;https://vacatures.uva.nl/UvA/job/PhD-Position-on-Side-Channel-Attacks-on-Quantum-Devices-Used-in-Quantum-Networks/742058802/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the official ad&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Are you fascinated by security? Are you willing to take on the challenge of securing the next generation of computer systems and networks? Do you like to work in a team of young researchers? We are seeking a PhD candidate who is interested in interdisciplinary research on side-channel attacks against quantum devices used in quantum networks and beyond.&lt;/p&gt;
+&lt;p&gt;Quantum technologies are being developed at a fast page. On the one hand, progress on the development of quantum computers poses a serious threat for our security infrastructure, especially for public-key cryptography. On the other hand, quantum components bring novel opportunities since they will be integrated in our networks and could bring novel security functionalities. However, quantum components are mostly experimental, and their security is yet to be studied and assessed in depth. In particular, little is known about their susceptibility against side-channel and physical attacks and, as a direct consequence, we do not know if and which countermeasures can be applied.&lt;/p&gt;
+&lt;p&gt;This PhD position will study the problem of side channels and physical attacks against quantum devices, understanding the extent to which they could be considered a threat and exploring potential methodologies to counteract and mitigate them. In collaboration with experimental physicists, experiments on real quantum devices are expected to be carried out to assess their robustness.&lt;/p&gt;
+&lt;p&gt;The PhD position will be within the Theory of Computer Science (TCS) group but will be carried out in close collaboration with the Complex Cyber Infrastructure (CCI) group and the multiscale network (MNS) groups of the Informatics Institute. The position is a part of the Quantum Delta NL Groeifonds project CAT-2, development of a &lt;a href=&#34;https://quantumdelta.nl/quantum-network/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;national quantum network&lt;/a&gt; and will also involve collaboration with the experimental and theoretical partners of the CAT-2 project.&lt;/p&gt;
+&lt;h2 id=&#34;what-are-you-going-to-do&#34;&gt;What are you going to do?&lt;/h2&gt;
+&lt;h3 id=&#34;tasks-and-responsibilities&#34;&gt;Tasks and responsibilities&lt;/h3&gt;
+&lt;p&gt;You are expected to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;carry out original research in the field of design for security;&lt;/li&gt;
+&lt;li&gt;have strong analytical and technical skills;
+have an interdisciplinary mindset and an open and proactive personality in interacting with researchers from different disciplines;&lt;/li&gt;
+&lt;li&gt;be active in the fundamental and/or applied research area, publishing in high level-international journals and presenting at leading conferences;&lt;/li&gt;
+&lt;li&gt;take part in ongoing educational activities, such as assisting in a course and guiding student thesis projects, at the BSc or MSc level;&lt;/li&gt;
+&lt;li&gt;be open to collaborations with other groups, institutes and/or companies by contributing expertise to (joint) research projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-do-you-have-to-offer&#34;&gt;What do you have to offer?&lt;/h2&gt;
+&lt;h3 id=&#34;your-experience-and-profile&#34;&gt;Your experience and profile:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A MSc degree in Computer Science, Computer Engineering, or Electrical Engineering (or related disciplines);&lt;/li&gt;
+&lt;li&gt;A strong scientific interest in security, in particular in side-channel and physical attacks;&lt;/li&gt;
+&lt;li&gt;The willingness to work in a highly international research team;&lt;/li&gt;
+&lt;li&gt;Fluency in oral and written English and good presentation skills;&lt;/li&gt;
+&lt;li&gt;Prior experience in side-channel and physical attacks;
+Basic knowledge of quantum technologies is a plus (but not required).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;our-offer&#34;&gt;Our offer&lt;/h2&gt;
+&lt;p&gt;A temporary contract for 38 hours per week for the duration of 4 years (the initial contract will be for a period of 18 months and after satisfactory evaluation it will be extended for a total duration of 4 years). The preferred starting date is as soon as possible. This should lead to a dissertation (PhD thesis). We will draft an educational plan that includes attendance of courses and (international) meetings. We also expect you to assist in teaching undergraduates and master students.&lt;/p&gt;
+&lt;p&gt;The gross monthly salary, based on 38 hours per week and dependent on relevant experience, ranges between € 2,541 in the first year to € 3,247 in the last year (scale P). UvA additionally offers an extensive package of secondary benefits, including 8% holiday allowance and a year-end bonus of 8.3%. The UFO profile PhD Candidate is applicable. A favourable tax agreement, the ‘30% ruling’, may apply to non-Dutch applicants. The &lt;a href=&#34;https://www.universiteitenvannederland.nl/en_GB/cao-universiteiten.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Collective Labour Agreement of Universities of the Netherlands&lt;/a&gt; is applicable.&lt;/p&gt;
+&lt;p&gt;Besides the salary and a vibrant and challenging environment at Science Park we offer you multiple fringe benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;232 holiday hours per year (based on fulltime) and extra holidays between Christmas and 1 January;&lt;/li&gt;
+&lt;li&gt;Multiple courses to follow from our Teaching and Learning Centre;&lt;/li&gt;
+&lt;li&gt;A complete educational program for PhD students; Multiple courses on topics such as leadership for academic staff;
+Multiple courses on topics such as time management, handling stress and an online learning platform with 100+ different courses;&lt;/li&gt;
+&lt;li&gt;7 weeks birth leave (partner leave) with 100% salary;
+Partly paid parental leave;&lt;/li&gt;
+&lt;li&gt;The possibility to set up a workplace at home;&lt;/li&gt;
+&lt;li&gt;A pension at ABP for which UvA pays two third part of the contribution;&lt;/li&gt;
+&lt;li&gt;The possibility to follow courses to learn Dutch;&lt;/li&gt;
+&lt;li&gt;Help with housing for a studio or small apartment when you’re moving from abroad.
+Are you curious to read more about our extensive package of secondary employment benefits, take a look &lt;a href=&#34;https://www.uva.nl/en/faculty/faculty-of-science/working-at-the-faculty/working-at-the-faculty-of-science.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;about-us&#34;&gt;About us&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.uva.nl/en/about-the-uva/about-the-university/about-the-university.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Amsterdam&lt;/a&gt; is the Netherlands&amp;rsquo; largest university, offering the widest range of academic programmes. At the UvA, 42,000 students, 6,000 staff members and 3,000 PhD candidates study and work in a diverse range of fields, connected by a culture of curiosity.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.uva.nl/en/faculty/faculty-of-science/faculty-of-science.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculty of Science&lt;/a&gt; has a student body of around 8,000, as well as 1,800 members of staff working in education, research or support services. Researchers and students at the Faculty of Science are fascinated by every aspect of how the world works, be it elementary particles, the birth of the universe or the functioning of the brain.&lt;/p&gt;
+&lt;p&gt;The mission of the &lt;a href=&#34;https://ivi.uva.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Informatics Institute (IvI)&lt;/a&gt; is to perform curiosity-driven and use-inspired fundamental research in Computer Science. The main research themes are Artificial Intelligence, Computational Science and Systems and Network Engineering. Our research involves complex information systems at large, with a focus on collaborative, data driven, computational and intelligent systems, all with a strong interactive component.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qusoft.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QuSoft&lt;/a&gt; is the Dutch research Center for Quantum Software, a collaboration between the University of Amsterdam (UvA) and Centrum Wiskunde &amp;amp; Informatica (CWI). Its mission is to explore and develop uses of quantum computers and other quantum technologies, for the benefit of society. The researchers at QuSoft develop algorithms, software and applications that exploit the extraordinary power of quantum computers based on their quantum mechanical properties, such as superposition, interference and entanglement. That requires fundamentally different techniques and approaches from those used to develop conventional software.&lt;/p&gt;
+&lt;p&gt;Want to know more about our organisation? Read more about &lt;a href=&#34;https://www.uva.nl/en/about-the-uva/working-at-the-uva/working-at-the-uva.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;working at the University of Amsterdam&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;questions&#34;&gt;Questions&lt;/h2&gt;
+&lt;p&gt;Do you have questions about this vacancy? Or do you want to know more about our organisation? Please contact:&lt;/p&gt;
+&lt;p&gt;Prof. Christian Schaffner,  Professor in Theoretical Computer Science&lt;/p&gt;
+&lt;h2 id=&#34;job-application&#34;&gt;Job Application&lt;/h2&gt;
+&lt;p&gt;If you feel the profile fits you, and you are interested in the job, we look forward to receiving your application. Application review will start 1 March 2023, and will stay open until a suitable candidate has been found, even if this is prior to the final date of the application window on 30 April 2023. For full consideration apply on or before 1 March 2023. You can apply online via the button below.&lt;/p&gt;
+&lt;p&gt;Applications should include the following information (all files including your CV should be submitted in one single pdf file):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a detailed CV including the months (not just years) when referring to your education and work experience;&lt;/li&gt;
+&lt;li&gt;a letter of motivation (at most 1 page) explaining why you are interested in this position;&lt;/li&gt;
+&lt;li&gt;a list of all university courses taken, including a transcript of grades;&lt;/li&gt;
+&lt;li&gt;a report from a research project you have done (e.g. your Master thesis);&lt;/li&gt;
+&lt;li&gt;Names, affiliations, and email addresses of two or three academic referees who can provide details about your academic profile in relation to this position, one of whom should be the main supervisor of your Master thesis (please do not include any reference letters in your application).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Please make sure to provide ALL requested documents mentioned above.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You can use the CV field to upload all the requested documents (including CV and motivation letter) as one single pdf file.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Only complete applications received within the response period via the link below will be considered. Please don’t send any applications by email.&lt;/p&gt;
+&lt;p&gt;We will invite potential candidates for interviews.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantum-Safe Internet (QSI)</title>
+      <link>https://ivi.uva.nl/tcs/project/qsi/index_qiss/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.uva.nl/tcs/project/qsi/index_qiss/</guid>
+      <description>&lt;p&gt;University of Amsterdam is one of the participants in the EU Marie Skłodowska-Curie Doctoral Training network on the topic of Quantum-Safe internet (QSI).&lt;/p&gt;
+&lt;p&gt;QSI aims at training a world-class cohort of doctoral students capable of taking the next essential steps in the highly demanding area of cybersecurity. We aim to build strong lasting links between strategically selected industry and academic partners, in different disciplines, via the development of novel technologies for practical applications in quantum and post-quantum cryptography. In parallel, we will also combine, via a collaborative long-term interdisciplinary approach, expertise in the two communities to address key fundamental problems in secure communications, and the important applications therein. The planned training network will provide research and training opportunities to a new generation of doctoral students, who, in the long-run, shall address the Grand Challenge of providing “Quantum-Safe Internet”, i.e., a communication infrastructure that is secure against not only classical attacks but also those enabled by quantum technologies. Internet security, which heavily relies on computational complexity assumptions, is seriously threatened by advancements in quantum computing technologies. Indeed, we have recently witnessed a wave of key developments in this direction by a number of IT giants, e.g., Google, IBM, Microsoft, and Intel. This particularly threatens applications that require long-term security. The number of such applications is continuously growing as more and more of our private information is stored and communicated in a digital way, e.g., electronic health records, which are now required by European legislation to remain secure for a long time. This requires us to urgently develop and implement new solutions. In QSI we combine the merits of quantum and post- quantum cryptography as key elements of the future quantum-safe Internet. This is particularly enabled by bringing together, in our consortium, the R&amp;amp;D and research expertise from the two communities&lt;/p&gt;
+&lt;p&gt;This project runs from September 2021 to September 2026.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

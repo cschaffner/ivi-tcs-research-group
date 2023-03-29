@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Bergstra | IvI TCS group</title>
+    <link>https://ivi.uva.nl/tcs/author/jan-bergstra/</link>
+      <atom:link href="https://ivi.uva.nl/tcs/author/jan-bergstra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Bergstra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ivi.uva.nl/tcs/media/icon_hu05c0a3be44a1345794ae7a6fdd653c7e_13272_512x512_fill_lanczos_center_3.png</url>
+      <title>Jan Bergstra</title>
+      <link>https://ivi.uva.nl/tcs/author/jan-bergstra/</link>
+    </image>
+    
+  </channel>
+</rss>
