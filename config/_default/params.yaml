@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: ocean
   theme_night:
   font: native
   font_size: L
@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: ResearchOrganization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'IvI TCS group'
+    description: 'The IvI Theory of Computer Science (TCS) group at University of Amsterdam'
+    twitter: 'theory_amsterdam'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -42,20 +42,19 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+  # copyright:
+  #   notice: '© {year} . This work is licensed under {license}'
+  #   license:
+  #     enable: false
+  #     allow_derivatives: false
+  #     share_alike: true
+  #     allow_commercial: false
 
 # Localization
 
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+date_format: '02 Jan 2006'
+time_format: '15:04'
+address_format: nl
 
 # Site features
 
@@ -70,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/cschaffner/ivi-tcs-research-group'
     content_dir: content
     branch: main
   avatar:
