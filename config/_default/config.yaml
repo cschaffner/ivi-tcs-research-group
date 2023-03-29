@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: IvI TCS group # Website name
-baseURL: 'https://ivi.uva.nl/tcs' # Website URL
+baseURL: 'https://cschaffner.github.io/ivi-tcs-research-group' # Website URL
 
 ############################
 ## LANGUAGE

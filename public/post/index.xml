@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | IvI TCS group</title>
-    <link>https://ivi.uva.nl/tcs/post/</link>
-      <atom:link href="https://ivi.uva.nl/tcs/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cschaffner.github.io/ivi-tcs-research-group/post/</link>
+      <atom:link href="https://cschaffner.github.io/ivi-tcs-research-group/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ivi.uva.nl/tcs/media/icon_hu05c0a3be44a1345794ae7a6fdd653c7e_13272_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cschaffner.github.io/ivi-tcs-research-group/media/icon_hu05c0a3be44a1345794ae7a6fdd653c7e_13272_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
-      <link>https://ivi.uva.nl/tcs/post/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/post/</link>
     </image>
     
     <item>
       <title>New group website for the IvI TCS group</title>
-      <link>https://ivi.uva.nl/tcs/post/23-03-08-new-homepage/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/post/23-03-08-new-homepage/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/post/23-03-08-new-homepage/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/post/23-03-08-new-homepage/</guid>
       <description>&lt;p&gt;Started designing a new group website.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Large NWA grant for research into the social impact of quantum secure cryptography</title>
-      <link>https://ivi.uva.nl/tcs/post/22-05-22-nwa-grant/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/post/22-05-22-nwa-grant/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/post/22-05-22-nwa-grant/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/post/22-05-22-nwa-grant/</guid>
       <description>&lt;p&gt;The arrival of quantum computers will have major societal consequences, especially in the field of cybersecurity. A new consortium led by Sebastian De Haro of the Institute for Logic, Language and Computation and the Institute of Physics of the University of Amsterdam has received a grant of over 900,000 euros from NWO&amp;rsquo;s Nationale Wetenschapsagenda (National Science Agenda, NWA) to study the impact of this transition and to help manage it.&lt;/p&gt;
 &lt;p&gt;See &lt;a href=&#34;https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2022/05/large-nwa-grant-for-research-into-the-social-impact-of-quantum-secure-cryptography.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;news article by UvA&lt;/a&gt;&lt;/p&gt;</description>
     </item>

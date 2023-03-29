@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven de Rooij | IvI TCS group</title>
-    <link>https://ivi.uva.nl/tcs/author/steven-de-rooij/</link>
-      <atom:link href="https://ivi.uva.nl/tcs/author/steven-de-rooij/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cschaffner.github.io/ivi-tcs-research-group/author/steven-de-rooij/</link>
+      <atom:link href="https://cschaffner.github.io/ivi-tcs-research-group/author/steven-de-rooij/index.xml" rel="self" type="application/rss+xml" />
     <description>Steven de Rooij</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ivi.uva.nl/tcs/author/steven-de-rooij/avatar_hu680e45612057ff9cef55ce4c8d985fb7_71208_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://cschaffner.github.io/ivi-tcs-research-group/author/steven-de-rooij/avatar_hu680e45612057ff9cef55ce4c8d985fb7_71208_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Steven de Rooij</title>
-      <link>https://ivi.uva.nl/tcs/author/steven-de-rooij/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/author/steven-de-rooij/</link>
     </image>
     
   </channel>

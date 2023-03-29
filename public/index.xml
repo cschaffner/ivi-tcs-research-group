@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IvI TCS group</title>
-    <link>https://ivi.uva.nl/tcs/</link>
-      <atom:link href="https://ivi.uva.nl/tcs/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cschaffner.github.io/ivi-tcs-research-group/</link>
+      <atom:link href="https://cschaffner.github.io/ivi-tcs-research-group/index.xml" rel="self" type="application/rss+xml" />
     <description>IvI TCS group</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ivi.uva.nl/tcs/media/icon_hu05c0a3be44a1345794ae7a6fdd653c7e_13272_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cschaffner.github.io/ivi-tcs-research-group/media/icon_hu05c0a3be44a1345794ae7a6fdd653c7e_13272_512x512_fill_lanczos_center_3.png</url>
       <title>IvI TCS group</title>
-      <link>https://ivi.uva.nl/tcs/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>https://ivi.uva.nl/tcs/event/example/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/event/example/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -29,27 +29,27 @@
     
     <item>
       <title>New group website for the IvI TCS group</title>
-      <link>https://ivi.uva.nl/tcs/post/23-03-08-new-homepage/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/post/23-03-08-new-homepage/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/post/23-03-08-new-homepage/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/post/23-03-08-new-homepage/</guid>
       <description>&lt;p&gt;Started designing a new group website.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Large NWA grant for research into the social impact of quantum secure cryptography</title>
-      <link>https://ivi.uva.nl/tcs/post/22-05-22-nwa-grant/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/post/22-05-22-nwa-grant/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/post/22-05-22-nwa-grant/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/post/22-05-22-nwa-grant/</guid>
       <description>&lt;p&gt;The arrival of quantum computers will have major societal consequences, especially in the field of cybersecurity. A new consortium led by Sebastian De Haro of the Institute for Logic, Language and Computation and the Institute of Physics of the University of Amsterdam has received a grant of over 900,000 euros from NWO&amp;rsquo;s Nationale Wetenschapsagenda (National Science Agenda, NWA) to study the impact of this transition and to help manage it.&lt;/p&gt;
 &lt;p&gt;See &lt;a href=&#34;https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/news/2022/05/large-nwa-grant-for-research-into-the-social-impact-of-quantum-secure-cryptography.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;news article by UvA&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Quantum Impact on Societal Security (QISS)</title>
-      <link>https://ivi.uva.nl/tcs/project/qiss/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/project/qiss/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/project/qiss/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/project/qiss/</guid>
       <description>&lt;p&gt;As the potential risks and consequences of cybersecurity breaches by future quantum computers are devastating, there is an urgent need to prepare for a transition to quantum-safe cryptography.&lt;/p&gt;
 &lt;p&gt;Addressing the many complexities of this transition requires a multidisciplinary collaboration of scientists, financial and governmental institutions, and civil society groups. The Quantum Impact on Societal Security consortium will analyse the ethical, legal and societal impact of this upcoming society-wide transition. The consortium&amp;rsquo;s objective is to contribute to the creation of a Dutch ecosystem where quantum-safe cryptography can thrive, and mobilize this ecosystem to align technological applications with ethical, legal, and social values. Quantum Impact on Societal Security aimss to create wide public awareness and use citizen feedback to develop responsible policies and regulations. The project’s ambition is to be a game-changer by incentivising key economic and societal advantages of adoption of responsible quantum-safe cryptography early on and by galvanizing policymakers into action, so that the Netherlands will gain a leading role in setting the international agenda for quantum-safe cryptography for society.&lt;/p&gt;
 &lt;p&gt;Quantum Impact on Societal Security has four scientific aims: First, to identify technical and societal requirements on innovation policies for quantum-safe cryptography: which enables an interactive approach to responsible innovation, in real time as the technology develops. Second, to understand the dynamics of knowledge in research and innovation ecosystems. Third, to draft novel innovation policies that satisfy the societal requirements for the financial and government sectors, clarifying their legal underpinning. Fourth, to link the development of new cryptographic standards to the subsequent stakeholder dynamics and its geopolitical consequences.&lt;/p&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>MSc in Quantum Computer Science (QuCS) at UvA</title>
-      <link>https://ivi.uva.nl/tcs/project/qdnl_al31/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/project/qdnl_al31/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/project/qdnl_al31/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/project/qdnl_al31/</guid>
       <description>&lt;p&gt;The goal of &lt;a href=&#34;https://quantumdelta.nl/human-capital/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Action Line 3 of QuantumDelta NL&lt;/a&gt; is to create a quantum-versed work force. At the University of Amsterdam, we are in the process of setting up an entire new Master program on &amp;ldquo;Quantum Computer Science&amp;rdquo; (QuCS). These efforts are supported by Action Line 3.1 of QuantumDelta NL.&lt;/p&gt;
 &lt;p&gt;This project runs from September 2021 to September 2026.&lt;/p&gt;
 </description>
@@ -69,9 +69,9 @@
     
     <item>
       <title>PhD Position on Side-Channel Attacks on Quantum Devices Used in Quantum Networks</title>
-      <link>https://ivi.uva.nl/tcs/project/qdnl_kat2/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/project/qdnl_kat2/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/project/qdnl_kat2/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/project/qdnl_kat2/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is an archived version of &lt;a href=&#34;https://vacatures.uva.nl/UvA/job/PhD-Position-on-Side-Channel-Attacks-on-Quantum-Devices-Used-in-Quantum-Networks/742058802/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the official ad&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Are you fascinated by security? Are you willing to take on the challenge of securing the next generation of computer systems and networks? Do you like to work in a team of young researchers? We are seeking a PhD candidate who is interested in interdisciplinary research on side-channel attacks against quantum devices used in quantum networks and beyond.&lt;/p&gt;
 &lt;p&gt;Quantum technologies are being developed at a fast page. On the one hand, progress on the development of quantum computers poses a serious threat for our security infrastructure, especially for public-key cryptography. On the other hand, quantum components bring novel opportunities since they will be integrated in our networks and could bring novel security functionalities. However, quantum components are mostly experimental, and their security is yet to be studied and assessed in depth. In particular, little is known about their susceptibility against side-channel and physical attacks and, as a direct consequence, we do not know if and which countermeasures can be applied.&lt;/p&gt;
@@ -143,9 +143,9 @@ Are you curious to read more about our extensive package of secondary employment
     
     <item>
       <title>Quantum-Safe Internet (QSI)</title>
-      <link>https://ivi.uva.nl/tcs/project/qsi/index_qiss/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/project/qsi/index_qiss/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/project/qsi/index_qiss/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/project/qsi/index_qiss/</guid>
       <description>&lt;p&gt;University of Amsterdam is one of the participants in the EU Marie Skłodowska-Curie Doctoral Training network on the topic of Quantum-Safe internet (QSI).&lt;/p&gt;
 &lt;p&gt;QSI aims at training a world-class cohort of doctoral students capable of taking the next essential steps in the highly demanding area of cybersecurity. We aim to build strong lasting links between strategically selected industry and academic partners, in different disciplines, via the development of novel technologies for practical applications in quantum and post-quantum cryptography. In parallel, we will also combine, via a collaborative long-term interdisciplinary approach, expertise in the two communities to address key fundamental problems in secure communications, and the important applications therein. The planned training network will provide research and training opportunities to a new generation of doctoral students, who, in the long-run, shall address the Grand Challenge of providing “Quantum-Safe Internet”, i.e., a communication infrastructure that is secure against not only classical attacks but also those enabled by quantum technologies. Internet security, which heavily relies on computational complexity assumptions, is seriously threatened by advancements in quantum computing technologies. Indeed, we have recently witnessed a wave of key developments in this direction by a number of IT giants, e.g., Google, IBM, Microsoft, and Intel. This particularly threatens applications that require long-term security. The number of such applications is continuously growing as more and more of our private information is stored and communicated in a digital way, e.g., electronic health records, which are now required by European legislation to remain secure for a long time. This requires us to urgently develop and implement new solutions. In QSI we combine the merits of quantum and post- quantum cryptography as key elements of the future quantum-safe Internet. This is particularly enabled by bringing together, in our consortium, the R&amp;amp;D and research expertise from the two communities&lt;/p&gt;
 &lt;p&gt;This project runs from September 2021 to September 2026.&lt;/p&gt;
@@ -154,33 +154,33 @@ Are you curious to read more about our extensive package of secondary employment
     
     <item>
       <title></title>
-      <link>https://ivi.uva.nl/tcs/admin/config.yml</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/admin/config.yml</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ivi.uva.nl/tcs/contact/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/contact/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ivi.uva.nl/tcs/people/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/people/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>https://ivi.uva.nl/tcs/tour/</link>
+      <link>https://cschaffner.github.io/ivi-tcs-research-group/tour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivi.uva.nl/tcs/tour/</guid>
+      <guid>https://cschaffner.github.io/ivi-tcs-research-group/tour/</guid>
       <description></description>
     </item>
     
