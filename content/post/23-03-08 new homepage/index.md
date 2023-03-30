@@ -6,4 +6,4 @@ image:
   focal_point: 'top'
 ---
 
-Started designing a new group website.
+Finally launched a new group website.

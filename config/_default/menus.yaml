@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Open Positions
+    url: '#open_positions'
+    weight: 10
   - name: News
     url: '#news'
     weight: 20
