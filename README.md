@@ -1,48 +1,52 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# homepage of research group Theory of Computer Science (TCS) at University of Amsterdam 
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+set up in March 2023 by [Christian Schaffner](https://staff.science.uva.nl/c.schaffner/)
+online at https://ivi.fnwi.uva.nl/tcs/
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+based on [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## Building this website from scratch locally
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+### on Mac/Linux
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+1. Install [Hugo and its dependencies](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
+2. Clone this repo:
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+```bash
+git clone git@github.com:cschaffner/ivi-tcs-research-group.git
+```
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+3. Start Hugo server to see the site live locally at http://localhost:1313/ (or at whatever the hugo server tells you)!
 
-## We ask you, humbly, to support this open source movement
+```bash
+cd ivi-tcs-research-group
+hugo server
+```
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+4. Edit the [markdown source files](https://wowchemy.com/docs/content/writing-markdown-latex/) with ending .md in the [/content/](https://github.com/cschaffner/ivi-tcs-research-group/tree/main/content) subdirectory to make changes to the site. As long as the hugo server is running, your changes should be visible immediately at http://localhost:1313/.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+5. Using a suitable editor like [Atom](https://atom.io/) or [Visual Studio Code](https://code.visualstudio.com/) allows to easily search across all source files, and will help finding the correct file to edit if you want to make specific changes.
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+6. Add new researchers by duplicating a similar subfolder in [/content/authors/](https://github.com/cschaffner/ivi-tcs-research-group/tree/main/content/authors) and adjusting the .md content and replacing the avatar picture.
 
-## Demo credits
+7. Add news items to [/content/post](https://github.com/cschaffner/ivi-tcs-research-group/tree/main/content/post)
 
-Please replace the demo images with your own.
+8. Add projects to [/content/project](https://github.com/cschaffner/ivi-tcs-research-group/tree/main/content/project)
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+8. When you are happy with the result, run ```hugo``` to compile create an updated ```public``` directory, and commit the changes to the master branch. Ask Chris to deploy the updated site to the UvA server.
+
+### on Windows
+1. Install 
+- [Github Desktop](https://desktop.github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Hugo and its dependencies](https://wowchemy.com/docs/getting-started/install-hugo-extended/#windows), including PowerShell and Scoop.
+
+2. do this and that (@Feline, please edit)
+
+
+
+## Troubleshooting
+This [information](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/) might be useful. Sometimes, you might have to [delete Hugo's default cache folder](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/#error-failed-to-resolve-output-format).
+
+For more information, try the search function on the [wowchemy website](https://wowchemy.com/).
