@@ -21,8 +21,8 @@ content:
     - Postdocs
     - PhD Students
     - Guests
-    - Alumni
     - Support
+    - Alumni
 design:
   show_interests: false
   show_role: true

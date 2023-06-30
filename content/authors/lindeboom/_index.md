@@ -18,9 +18,6 @@ social:
 - icon: link
   icon_pack: fas
   link: https://www.linkedin.com/in/feline-lindeboom-4a662012a/
-- icon: envelope
-  icon_pack: fas
-  link: mailto:f.l.lindeboom@uva.nl
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -36,7 +33,7 @@ organizations:
 superuser: false
 
 user_groups:
-  - Support
+  - Alumni
   
 ---
 

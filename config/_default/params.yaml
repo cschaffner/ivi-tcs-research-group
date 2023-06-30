@@ -41,6 +41,9 @@ header:
 
 # Site footer
 
+power_ups:
+  hide_published_with: true
+
 footer:
   # copyright:
   #   notice: '© {year} . This work is licensed under {license}'
