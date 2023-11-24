@@ -40,4 +40,4 @@ user_groups:
 
 interests:
 ---
-
+Starting September 2023, I am a PhD student at the Theoretical Computer Science group of the Informatics Institute of the University of Amsterdam, supervised by Nic Resch. I am broadly interested in much of theoretical computer science.
