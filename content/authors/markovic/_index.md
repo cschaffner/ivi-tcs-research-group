@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Grace Millerson
+title: Ivana Marković
 
-# sorty by
-lastname: Millerson
+# sort by
+lastname: Marković
 
 # Role/position
-role: Alumni
+role: Support
 
 avatar_filename: avatar
 
@@ -20,7 +20,7 @@ social:
 #   link: https://www.linkedin.com/in/feline-lindeboom-4a662012a/
 - icon: envelope
   icon_pack: fas
-  link: mailto:g.v.millerson@uva.nl
+  link: mailto:i.markovic@uva.nl
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -36,7 +36,7 @@ organizations:
 superuser: false
 
 user_groups:
-  - Alumni
+  - Support
   
 ---
 
