@@ -9,10 +9,10 @@ authors: [schaffner]
 external_link: ""
 
 links:
-- icon: hyperlink
-  icon_pack: fab
-  name: Apply now!
-  url: https://vacatures.uva.nl/UvA/job/PD/773632702/
+# - icon: hyperlink
+#   icon_pack: fab
+#   name: Apply now!
+#   url: https://vacatures.uva.nl/UvA/job/PD/773632702/
 # - icon: hyperlink
 #   icon_pack: fab
 #   name: More Information

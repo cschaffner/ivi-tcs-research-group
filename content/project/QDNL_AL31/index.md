@@ -8,11 +8,11 @@ authors: [schaffner, wetering]
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
 
-# links:
-# - icon: hyperlink
-#   icon_pack: fab
-#   name: Research Homepage
-#   url: https://dl4ld.nl
+links:
+- icon: hyperlink
+  icon_pack: fab
+  name: Apply to the MSc!
+  url: https://www.uva.nl/en/programmes/masters/quantum-computer-science/quantum-computer-science.html
 # - icon: hyperlink
 #   icon_pack: fab
 #   name: More Information

@@ -3,7 +3,7 @@ title: Quantum Impact on Societal Security (QISS)
 summary: NWA project
 tags:
 date: "2022-05-16"
-authors: [schaffner]
+authors: [schaffner, robertson]
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://projects.illc.uva.nl/quantumimpact/"

@@ -3,16 +3,16 @@ title: Quantum-Safe Internet (QSI)
 summary: EU Marie Skłodowska-Curie Doctoral Training network
 tags:
 date: "2021-09-01"
-authors: [schaffner]
+authors: [schaffner, muuss]
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
 
-# links:
-# - icon: hyperlink
-#   icon_pack: fab
-#   name: Research Homepage
-#   url: https://dl4ld.nl
+links:
+- icon: hyperlink
+  icon_pack: fab
+  name: Project Homepage
+  url: https://qsi.uvigo.es/
 # - icon: hyperlink
 #   icon_pack: fab
 #   name: More Information
