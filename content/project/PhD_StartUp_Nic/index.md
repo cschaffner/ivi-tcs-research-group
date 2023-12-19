@@ -30,14 +30,6 @@ links:
 # slides: example
 ---
 
+The goal of the project is to study classes of error-correcting codes that have recently seen applications in (fast) cryptographic protocols. For example, in the World of secure multi-party computation, judicious choices for error-correcting codes hold the promise of turning what was once a theoretical curiosity into a practical reality. In a similar vein, cryptographic proof systems (as used, e.g., in block-chains) always require an underlying code, and modern optimizations of proof systems usually stem from optimizations in the underlying codes. There are many questions to be studied regarding the security of these new code-based cryptosystems.
 
-Have you ever wondered about the mathematical techniques that underpin the information revolution that, for example, allow you to read this website? Do you have a passion for mathematics and a desire to solve problems arising in the theoretical study of computation? Are you excited by the prospect of collaborating with other mathematically-inclined researchers to attack these questions? We are seeking a PhD student to carry out cutting-edge research in theoretical computer science (TCS).
-
- <!--more-->
-
-One fundamental challenge that must be overcome to allow for the rapid communication we expect in modern life is that data transmissions must be protected from noise. Error-correcting codes (ECC’s) provide a mathematical means for adding judiciously chosen redundancy to messages to protect from errors. Intriguingly, the task of dealing with errors arises in many other areas of TCS, leading to a wealth of new applications for ECC’s together with novel design goals.
-
- 
-The Theory of Computer Science (TCS) group, within the Informatics Institute (IvI) of the University of Amsterdam (UvA), is looking for a PhD candidate with an expected research focus on coding theory and its interactions with other topics in TCS.
-
- 
+Firstly, in many cases it is not clear how to construct the codes with the desired properties, at least with sufficiently small error probabilities. Furthermore, our understanding of the cryptanalytic attacks applicable to these codes is rather limited. Lastly, we are still just scratching the surface of the power of these code-based systems, and many new optimizations/improvements remain to be found.
