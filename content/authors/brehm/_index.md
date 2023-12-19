@@ -17,7 +17,7 @@ avatar_filename: avatar
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:g.c.muuss@uva.nl
+  link: mailto:m.a.brehm@uva.nl
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
