@@ -3,7 +3,7 @@ title: PhD Position on Side-Channel Attacks on Quantum Devices Used in Quantum N
 summary: QuantumDelta NL KAT2 PhD
 tags:
 date: "2021-09-01"
-authors: [schaffner]
+authors: [schaffner, planken]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
