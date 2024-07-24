@@ -2,7 +2,7 @@
 title: John van de Wetering starts in TCS group
 image:
   focal_point: "top"
-authors: [schaffner]
+authors: [schaffner,wetering]
 
 date: 2022-12-01
 featured: yes
