@@ -14,4 +14,4 @@ To celebrate (Dutch) summer, Chris invited the TCS group members for a BBQ to hi
 
 <br><br>
 
-{{< gallery album="BBQ2024">}}
+{{< gallery album="bbq2024">}}
