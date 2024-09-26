@@ -21,13 +21,9 @@ sections:
       title: Open Positions
       subtitle:
       text: |
-        ## Open PhD position:
+        ## Open positions:
+        * [Assistant Professor in Cyber Security](project/cics_ud_chris)
         * PhD position in [code-based cryptography](post/23-09-01-phd-nic/) (with Nic Resch)
-
-
-        ## Candidates found, will start in Spring 2024:
-        * PhD position in ZX calculus (with John van de Wetering)
-        * PostDoc position on [Integration of Quantum and Classical Security](project/qdnl_kat2_pd) (with Christian Schaffner and Florian Speelman)
   - block: collection
     id: news    
     content:

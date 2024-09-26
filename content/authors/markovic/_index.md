@@ -15,12 +15,12 @@ avatar_filename: avatar
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: link
-#   icon_pack: fas
-#   link: https://www.linkedin.com/in/feline-lindeboom-4a662012a/
-- icon: envelope
+- icon: link
   icon_pack: fas
-  link: mailto:i.markovic@uva.nl
+  link: https://www.linkedin.com/in/ivana-markovi%C4%87-95239180
+# - icon: envelope
+#   icon_pack: fas
+#   link: mailto:i.markovic@uva.nl
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -36,7 +36,7 @@ organizations:
 superuser: false
 
 user_groups:
-  - Support
+  - Alumni
   
 ---
 

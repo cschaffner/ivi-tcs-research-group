@@ -3,7 +3,7 @@ title: PostDoc position on Integration of Quantum and Classical Security
 summary: QuantumDelta NL KAT2 PostDoc
 tags:
 date: "2022-06-21"
-authors: [schaffner]
+authors: [schaffner,verschoor]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
