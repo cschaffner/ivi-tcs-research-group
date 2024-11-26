@@ -23,7 +23,6 @@ sections:
       text: |
         ## Open positions:
         * [Assistant Professor in Cyber Security](project/cics_ud_chris)
-        * PhD position in [code-based cryptography](post/23-09-01-phd-nic/) (with Nic Resch)
   - block: collection
     id: news    
     content:
