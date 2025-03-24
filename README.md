@@ -1,3 +1,5 @@
+**source hosting has been moved to https://uva-hva.gitlab.host/tcs-website/ivi-tcs-research-group**
+
 # homepage of research group Theory of Computer Science (TCS) at University of Amsterdam 
 
 set up in March 2023 by [Christian Schaffner](https://staff.science.uva.nl/c.schaffner/)
